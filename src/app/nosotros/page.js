@@ -71,6 +71,7 @@ export default function Nosotros() {
             </div>
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold text-blue-600 mb-4">Valores</h3>
+              <div className="text-gray-800">
               <ul className="text-gray-600 space-y-2">
                 <li>• Creatividad e innovación</li>
                 <li>• Compromiso con los resultados</li>
@@ -78,6 +79,7 @@ export default function Nosotros() {
                 <li>• Trabajo en equipo</li>
                 <li>• Mejora continua</li>
               </ul>
+              </div>
             </div>
           </div>
         </div>
